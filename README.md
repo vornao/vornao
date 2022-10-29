@@ -1,4 +1,5 @@
-- Computer Science student @ Unipisa 
+- Data science MSc student @ Unipisa 
+- BSc in Computer Science @Unipisa
 - Interested in IoT, Domotics and embedded systems
 - Telegram bots dev
 - C/C++, Python, Java, Kotlin, Lua, Arduino Framework
