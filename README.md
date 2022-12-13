@@ -1,4 +1,4 @@
-- Data science MSc student @ Unipisa 
+- Artificial Intelligence MSc student @ Unipisa 
 - BSc in Computer Science @Unipisa
 - Interested in IoT, Domotics and embedded systems
 - Telegram bots dev
