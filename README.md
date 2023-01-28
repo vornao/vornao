@@ -1,5 +1,5 @@
 
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=vornao&show_icons=true&theme=gruvbox&count_private=true" align="right"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=vornao&show_icons=true&theme=midnight-purple&count_private=true" align="right"/>
 
 - Artificial Intelligence MSc student @ Unipisa 
 - BSc in Computer Science @Unipisa
